@@ -9,4 +9,6 @@ You can make the sketch grid larger by clicking the yellow button labeled, "Chan
 
 This will take a number between 8 and 35 and build a grid on the sketch pad to corresponding dimensions (i.e. 8 = 8x8, 35 = 35x35).
 
+**NOTE: This is designed for desktop only and -will not- function nor look good on mobile.
+
 That's it! Simple and sweet.
